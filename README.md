@@ -19,7 +19,7 @@
 <h5>위험물 화차 IoT 관제 시스템</h5>
 * REST 통신 기반의 미들웨어 서버, 관리 페이지 개발
 * 2016/05/11 ~ 2016/08/31
-* Spring Boot
+* Spring Boot, Spring Security
 
 <h5>위험물 차량 운송 관제 시스템</h5>
 * REST 통신 기반의 미들웨어 서버 개발
